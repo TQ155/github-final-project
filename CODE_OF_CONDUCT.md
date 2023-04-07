@@ -1,0 +1,1 @@
+The CODE_OF_CONDUCT.md file in GitHub is a document that outlines a set of guidelines for contributors to follow when participating in a project. The code of conduct helps to ensure that all participants are respectful, professional, and inclusive towards each other, regardless of their backgrounds, identities, or viewpoints.
