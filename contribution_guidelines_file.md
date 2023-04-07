@@ -1,1 +1,1 @@
-The CONTRIBUTING.md file in GitHub is a document that provides guidelines and instructions for contributing to a project. The file helps to ensure that all contributors follow the same standards and procedures when submitting changes or new features to the project, and it helps to make the process of contributing more accessible and user-friendly.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
