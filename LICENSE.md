@@ -1,0 +1,1 @@
+The LICENSE file in GitHub is a document that specifies the terms and conditions under which the software in the repository can be used, modified, and distributed. The license outlines the legal rights and responsibilities of users and contributors to the project, and it helps to protect the intellectual property of the original authors and maintainers.
